@@ -1,0 +1,4 @@
+agno>=2.2.10
+requests>=2.31.0
+streamlit==1.44.1
+openai==2.8.1
