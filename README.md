@@ -48,4 +48,4 @@ We welcome contributions from the community! To get involved:
 - If you encounter issues, check the `issues` section for solutions or create a new issue for assistance.
 
 ## License Information
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
